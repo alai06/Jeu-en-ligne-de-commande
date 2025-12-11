@@ -1,0 +1,36 @@
+Taieb Yannis 22027534
+Cherigui Allah-Eddine 22107260
+
+Projet PCOO 3
+
+Remarque :
+
+    -Pour le scan du nom, veuillez entrer une chaine de caractère sans les accolades et sans espaces.
+    -Pour tous les scans qui suivent, veuillez entrer un nombre entier sans les accolades et sans espaces.
+    -Pour annuler un choix, veuillez entrer une valeur qui n'est pas indiquée.
+    -Le programme "main" est le fichier "Jeu.java".
+    -Vous pouvez faire plusieurs actions d'affilées en entrant  plusieurs int séparés par des espaces.
+    -Des Thread.sleep() ont été ajoutés pour les phrases de pnj et les combats, pour que le joueur ait le temps de lire.
+    -Ajout d'une fonction "statistique" permettant d'afficher les statistiques du joueur.
+    -Ajout d'une fonction "carte du monde" permettant d'afficher la carte du monde.
+    -Ajout d'une fonction "quitter" permettant de quitter le jeu à tout moment.
+    -Ajout d'une fonction "rejouer" permettant de rejouer une partie lorsque le pj a atteint le niveau 20 ou lorsque le pj est mort.
+
+Si vous possedez l'extension AIOcompiler sur VSCode, supprimer le dossier ".output" de ce dossier et compiler le fichier Jeu.java avec l'extension (en cliquant sur l'engrenage en haut à droite de l'écran).
+
+Sinon, veuillez compiler le fichier Jeu.java avec la commande suivante:
+
+ordre de compilation:
+    -Sort.java
+    -Entite.java
+    -Metier
+    -Barbare.java,Magicien.java,Guerrier.java
+    -EntiteAtk.java
+    -Monstre.java
+    -chaque Monstre (exemple: Gobelin.java)
+    -SpawnMonstre.java
+    -Pnj.java
+    -Forgeron.java,Grand_Sorcier.java
+    -Lieu.java
+    -Pj.java
+    -Jeu.java
